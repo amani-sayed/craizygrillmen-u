@@ -1,0 +1,21 @@
+.fin{ 
+			text-align: center;	
+		}
+		body{
+			margin-left: 3%;
+			background-color:#d4cc27 ;
+		}
+		img{
+			height:20px ;
+width: 20px;		}
+h1{ text-align: center ;
+	vertical-align: top;
+	}
+	.bold{
+		font-weight: bold;
+	}
+	.bigSize{
+		font-size: 130%;
+		font-weight:bolder ;
+		text-decoration: underline;
+	}
